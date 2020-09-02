@@ -7,6 +7,6 @@ The SRE "Wheel of misfortune" will support the "pseudo random" approach by selec
 If you want to know more about SRE you should visit Google https://landing.google.com/sre/ and https://landing.google.com/sre/sre-book/chapters/accelerating-sre-on-call/<BR>
 
 <B>Version Roadmap:</B><BR>
-v0.1 Analog version, relying on IKEA <a href="https://github.com/mik0git/sre-wheel-of-infortune/blob/master/lustigt-wheel-of-fortune-game__0898668_PE782581_S5.JPG">LUSTIGT</a> with printed stickers template<BR>
-v1 IoT version with Hacked IKEA LUSTIGT, something like https://github.com/premieroctet/wonder-wheel <BR>
-v2 still TBD <BR>
+<li>v0.1 Analog version, relying on IKEA <a href="https://github.com/mik0git/sre-wheel-of-infortune/blob/master/lustigt-wheel-of-fortune-game__0898668_PE782581_S5.JPG">LUSTIGT</a> with printed stickers template<BR>
+<li>v1 IoT version with Hacked IKEA LUSTIGT, something like https://github.com/premieroctet/wonder-wheel <BR>
+<li>v2 still TBD <BR>

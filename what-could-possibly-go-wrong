@@ -1,0 +1,25 @@
+Power failure/flaps
+Fiber-cut(s)
+Natural disaster (Fire, Flood, Lightning, Solar tempest, Hurricane, Earthquake...)
+Terrorist attack
+Hardware failure
+Massive DDOS
+Security breach (P0wned!) 
+Network Interface flaps 
+Severe Network Packet-loss
+Saturated Network interface
+Router TCAM is full
+BGP issues (flaps/leakage)
+Routing instability (other)
+IP Address issues (dup!)
+System Kernel crash
+System runs Out of Memory
+System runs Out of disk space
+System Misconfiguration (aka shutdown Loopback0)
+Unresponsive UserDB
+Corrupted UserDB
+System config got cleared
+File-system got wiped
+Unreachable DNS servers
+Wrong System date/time
+Incompatible SW upgrade

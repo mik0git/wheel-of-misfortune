@@ -1,17 +1,16 @@
-Power failure/flaps
+Power failure(s)
 Fiber-cut(s)
 Natural disaster (Fire, Flood, Lightning, Solar tempest, Hurricane, Earthquake...)
-Terrorist attack
-Hardware failure
-Massive DDOS
+Terrorist attack (TBD)
+Hardware failure(s)
+CyberAttack/DDOS
 Security breach (P0wned!) 
 Network Interface flaps 
-Severe Network Packet-loss
+Network Packet-loss (>10%)
 Saturated Network interface
 Router TCAM is full
-BGP issues (flaps/leakage)
-Routing instability (other)
-IP Address issues (dup!)
+BGP routing issues (flaps/leakage)
+IP Routing issues (loop, dup!...)
 System Kernel crash
 System runs Out of Memory
 System runs Out of disk space

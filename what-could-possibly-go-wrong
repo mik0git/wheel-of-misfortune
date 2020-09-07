@@ -2,6 +2,7 @@ Power failure(s)
 Fiber-cut(s)
 Natural disaster (Fire, Flood, Lightning, Solar tempest, Hurricane, Earthquake...)
 Terrorist attack (TBD)
+Infra Sabbotage
 Hardware failure(s)
 CyberAttack/DDOS
 Security breach (P0wned!) 
@@ -10,7 +11,7 @@ Network Packet-loss (>10%)
 Saturated Network interface
 Router TCAM is full
 BGP routing issues (flaps/leakage)
-IP Routing issues (loop, dup!...)
+IP Routing issues (loop)
 System Kernel crash
 System runs Out of Memory
 System runs Out of disk space
@@ -22,3 +23,9 @@ File-system got wiped
 Unreachable DNS servers
 Wrong System date/time
 Incompatible SW upgrade
+Rogue DHCP
+Duplicated IP
+Flowspec misconfig
+The Cloud is down
+Core Router Crash
+

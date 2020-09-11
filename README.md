@@ -1,7 +1,7 @@
 # wheel-of-misfortune
 The SRE Wheel of Misfortune : "Because shit will likely happen"
 
- <img src="v0-1.jpg" alt="Wheel of Misfortune" width="500" height="600"> 
+ <img src="v0-1.jpg" alt="Wheel of Misfortune" width="446" height="595"> 
 
 "Site Reliability Engineering" best practices recommends to organize "role playing" sessions to train the teams, to improve the processes+architectures and finaly it helps to shorten the time to resolution.<BR>
 Such disaster can be pre-defined within the teams or randomly decided by "the fate" .<BR>
